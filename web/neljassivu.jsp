@@ -1,6 +1,6 @@
 <%-- 
-    Document   : paasivu
-    Created on : Apr 20, 2016, 1:12:59 PM
+    Document   : neljassivu
+    Created on : Apr 20, 2016, 2:00:07 PM
     Author     : omiha038
 --%>
 
@@ -12,8 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Pääsivu</h1>
-        <a href="tokasivu.jsp">Tokasivulle</a>
-        <p>pimpelipom testailua</p>
+        <h1>Hello World!</h1>
     </body>
 </html>
